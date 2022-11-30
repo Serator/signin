@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/signin/static/css/main.1049ca60.css",
+    "main.js": "/signin/static/js/main.16f166b8.js",
+    "static/js/787.28cb0dcd.chunk.js": "/signin/static/js/787.28cb0dcd.chunk.js",
+    "static/media/frame-1.svg": "/signin/static/media/frame-1.818a2ec4d72e0f5697d4ee9296ba6a4b.svg",
+    "static/media/frame-4.svg": "/signin/static/media/frame-4.6b0d43b13b81012e0fe163a20a60edc1.svg",
+    "static/media/frame-5.svg": "/signin/static/media/frame-5.e69f984810050e92566f667e500769a5.svg",
+    "static/media/linkedin.svg": "/signin/static/media/linkedin.9ac841b837e89103fa926c873547cd53.svg",
+    "static/media/facebook.svg": "/signin/static/media/facebook.a1375a34d61a7b6353b5f2d52ebcde78.svg",
+    "static/media/google.svg": "/signin/static/media/google.5fe2fd258cedc712b8fc8bf04ba85051.svg",
+    "static/media/frame-3.svg": "/signin/static/media/frame-3.169abb15ee171d26b28f817dcd2a5df8.svg",
+    "static/media/frame-0.svg": "/signin/static/media/frame-0.c370082af09467748c38b34b78de5059.svg",
+    "index.html": "/signin/index.html",
+    "static/media/frame-2.svg": "/signin/static/media/frame-2.a862e0903443bb12f1265f9542d3b733.svg",
+    "main.1049ca60.css.map": "/signin/static/css/main.1049ca60.css.map",
+    "main.16f166b8.js.map": "/signin/static/js/main.16f166b8.js.map",
+    "787.28cb0dcd.chunk.js.map": "/signin/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1049ca60.css",
+    "static/js/main.16f166b8.js"
+  ]
+}
